@@ -1,0 +1,26 @@
+{
+  "name": "polytheme",
+  "homepage": "https://github.com/nchathu2014/polytheme",
+  "description": "This is a R&amp;D of theme rolling using polymer ",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Polymer",
+    "Theme-Rolling"
+  ],
+  "authors": [
+    "T.D.N.Chathuranga"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.2.3"
+  }
+}
